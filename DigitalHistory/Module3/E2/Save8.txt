@@ -1,4 +1,5 @@
-﻿Sam Houston, J. Pinckney Henderson, December 31 1836
+Sender, Recipient, Date
+Sam Houston, J. Pinckney Henderson, December 31 1836
 James Webb, Alc6e La Branche, May 27 1839
 David G. Burnet, Richard G. Dunlap, June 3 1839
 Nathaniel Amory, Richard G. Dunlap, July 24 1839
@@ -18,7 +19,6 @@ David G. Bumet, Alc^e La Branche, December 20 1839
 D. Rowlett, David G. Bumet, January 5 1840
 David G. Bumet, Richard G. Dunlap, January 20 1840
 Abner S. Lipscomb, Alc^ La Branche, April 1 1840
-Abner S. Lipscomb, James Hamilton and A. T. Bumley, AugUHt 15 1840
 Joseph Waplee, Barnard E. Bee, September 19 1840
 Abner S. Lipscomb, Geo. H. Flood, December 13 1840
 Joseph Waplee, Nathaniel Amory, January 5 1841
@@ -57,7 +57,6 @@ Wm. Henry Daingerfield, Anson Jones, February 14 1843
 Anson Jones, Isaac Van Zandt, February 16 1843
 Sam Houston, Joseph Eve, February 17 1843
 Joseph Eve, Joseph Waples, February 27 1843
-Copy and sunmiary of instructions United States Department of State, 
 Joseph Eve as charg^, Texaa, June 15 1841
 Wm. Henry Daingerfield, Anson Jones, March 10 1843
 Joseph Eve, Anson Jones, March 13 1843
@@ -144,7 +143,6 @@ Anson Jones, Isaac Van Zandt, July 13 1844
 A. M. Green, Anson Jones, July 14 1844
 Anson Jones, A. M. Green, July 22 1844
 Anson Jones, Charles H. Raymond, July 29 1844
-Address of Tilghman A. Howard, Anson Jones, between August 2 and 6 1844
 Anson Jones's reply, Howard *s address 294 
 Anson Jones, Charles H. Raymond, August 6 1844
 Isaac Van Zandt, Anson Jones, August 8 1844
@@ -168,13 +166,11 @@ Charles H. Raymond, Anson Jones, November 27 1844
 A. J. Donelson, Anson Jones, December 2 1844
 M.S. CucuUu, John C. Spencer, April 26 1844
 Balie Peyton, M. S. CucuUu, April 26 1844
-Eddy and Moss, the collector of the customs at New Orleans, April 23 1843
-Charles H. Raymond, the Secretary of State of Texas [Jones], December 4 1844 
+Charles H. Raymond, the Secretary of State of Texas [Jones], December 
 John C. Calhoun, Charles H. Raymond, December 2 1844
 Charles H. Raymond, John C. Calhoun, December 2 1844
 A. J. Donelson, Anson Jones, December 6 1844
 Anson Jones, A. J. Donelson, December 7 1844
-A. J. Donelson, Secretary of State [Allen arf interim], December 10 1844
 Ebenezer Allen, A. J. Donelson, December 11 1844
 A. J. Donelson, Ebenezer Allen, December 13 1844
 Charles H. Raymond, the Secretary of State of Texas [Allen], 
@@ -190,7 +186,6 @@ Charles H. Raymond, Ebenezer Allen, January 16 1845
 Ebenezer Allen, Charles H. Raymond, January 20 1845
 A. J. Donelson, Ebenezer Allen, January 20 1845
 Duff Green, A. J. Donelson, January 20 1845
-Williams Thurston, Meggerson Duff Green, January 1 1845
 A. J. Donelson, Ebenezer Allen, January 21 1845
 Ebenezer Allen, A. J. Donelson, January 21 1845
 Charles H. Raymond, Ebenezer Allen, January 27 1845
@@ -296,8 +291,8 @@ James Treat, David G. Burnet, September 3 1839
 James Treat, David G. Burnet, September 10 1839
 James Treat, David G. Burnet, September 18 1839
 James Treat, Mirabeau B. I^mar, September 18 1839
-A Friend of Treat in Mexico, a Friend of Treat in New Orleans [Vitalba], August 2 1839
-A Friend of Treat in New Orleans [Vitalba], James Treat, September 2 1839 
+A Friend of Treat in Mexico, a Friend of Treat in New Orleans [Vitalba], 
+A Friend of Treat in New Orleans [Vitalba], James Treat, September 
 James Treat, David G. Biumet, September 21 1839
 James Treat, David G. Burnet, Octobers 1839
 James Treat, David G. Burnet, October 10 1839
@@ -383,7 +378,6 @@ A. S. Wright, Barnard E. Bee, July 1 1840
 James Treat, Abner S. Lipscomb, July 4 1840
 James Treat, Mirabeau B. Lamar, July 4 1840
 James Treat, Juan de Dios Cafiedo, June 20 1840
-Barnard E. Bee, James Treat April 28, 1»40 
 James Treat, Abner S. Lipscomb, July 13 1840
 James Treat, Mirabeau B. Lamar, July 13 1840
 James Treat, Mirabeau B. Lamar, July 23 1840
@@ -395,7 +389,6 @@ James Treat, Mirabeau B. Lamar, August 21 1840
 James Treat, Abner S. Lipscomb, August 21 1840
 James Treat, E. W. Moore, August 21 1840
 E. W. Moore, James Treat, August 25 1840
-E. W. Moore, Muabeau B. Lamar, August 28 184Q
 E. W. Moore, Abner S. Lipscomb, August 28 1840
 James Treat, Abner S. Lipscomb, September 7 1840
 Memorandum communicated by Treat, Mexican Government, Septem- 
@@ -416,10 +409,8 @@ James Treat, R. Pakenham, October 10 1840
 James Treat, R. Pakenham, October 14 1840
 James Treat, R. Pakenham, October 14 1840
 R. Pakenham, James Treat, September 29 1840
-Juan de Dies Cafiedo, R. Pakenham, September 26 
 R. Pakenham, James Treat, October 14 1840
 R. Pakenham, James Treat, October 15 1840
-R. Pakenham, James Treat, October 21 U540
 R. Pakenham, James Treat, November 5 1840
 James Treat, E. W. Moore, October 6 1840
 James Treat, E. W. Moore, September 30 1840
@@ -459,8 +450,6 @@ Samuel A. Roberts, Martin F. Peraza, September 13 1841
 Martin F. Peraza, Samuel A. Roberts, September 18 1841
 E. W. Moore, PedrffLemus, January 13 1842
 Pedro Lemus, E. W. Moore, January 14 1842
-Joaquin G. Rej6n, Secretary of State [Waples acting], January 18 1842
-Joaquin G. Rei6n, Secretary of State [Waples acting], January 18 1842
 Instructions, Peraza, August 24 1841
 Joaquin G. Rej6n, President of Texas, April 9 1842
 Pedro Lemus, Secretary of State [Rej6n], April 8 1842
@@ -502,7 +491,7 @@ R. A. Irion, J. Pinckney Henderson, November 28 1838
 Jamee Hamilton, H. S. Fox, May 20 1839
 H. S. Fox, James Hamilton, May22 1839
 David G. Burnet, J. Pinckney Henderson, June 16 1839
-David G. Burnet, Jamee Hamilton, August 19 1839 
+David G. Burnet, Jamee Hamilton, August 19,1839  
 J. Pinckney Henderson, Secretary of State [Burnet], October 16 1839
 J. Pinckney Henderson, Secretary of State [Burnet], November 24 1839
 J. Pinckney Henderson, Secretary of State [Biumet], November 27 1839
@@ -811,7 +800,6 @@ Wm. Sevey, James S. Mayfield, March 29 1841
 James H. Starr, Wm. Sevey, August 4 1840
 Thos. Gales Forster, James S. Mayfield, April 4 1841
 Henry J. Jewett, James S. Mayfield, February 24 1841
-Information given by Henry J. Jewett, A. Hutchinson, February 22
 James S. Mayfield, Henry J. Jewett, February 20 1841
 A. Hutchinson, James S. Mayfield, February 23 1841
 James Hamilton, Mirabeau B. Laniar, May 17 1841
@@ -969,7 +957,7 @@ Anson Jones, James Hamilton, June 4 1842
 Anson Jones, Wm. Henry Daingerfield, January 20 1843
 Wm. Henry Daingerfield, Anson Jones, November 12 1843
 Henry Castro, Anson Jones, October 25 1843
-Anson Jones Wm. Henry Daingerfield, July 14 1844
+Anson Jones, Wm. Henry Daingerfield, July 14 1844
 Wm. Henry Daingerfield, Lachlin M. Rate, December 12 1844
 Wm. Henry Daingerfield, Anson Jones, February 3 1843
 Anson Jones, Wm. Henry Daingerfield, February 20 1843
